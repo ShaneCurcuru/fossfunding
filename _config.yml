@@ -1,1 +1,16 @@
 theme: jekyll-theme-minimal
+title: FOSS Funding
+logo: /assets/img/lifesaver.png
+description: Overview of FOSS Foundation funding topics.
+show_downloads: false
+google_analytics: 
+
+author: Shane Curcuru
+twitter:
+  username: shanecurcuru
+  card: summary
+social:
+  name: Punderthings℠ LLC
+  links:
+    - http://punderthings.com/
+    - http://shanecurcuru.org/
