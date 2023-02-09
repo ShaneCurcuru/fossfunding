@@ -26,9 +26,13 @@ This site is being built as a resource for those wishing to research funding que
 
 - [NPO Public Filings](https://gitlab.com/floss-foundations/npo-public-filings) is a GitLab repo with many tax forms for major FOSS Foundations already organized.
 
-- Most Open Source Foundations are non-profit organizations, which file IRS 990 forms in the US or other forms in Europe and elsewhere.
+## What types of non-profit foundations are there?
+
+- Most Open Source Foundations are some type of non-profit organizations, which file IRS 990 forms in the US or other forms in Europe and elsewhere.
   - [ProPublica has an excellent non-profit finances finder](https://projects.propublica.org/nonprofits/) that often includes both PDF and structured XML downloads of multiple tax years of non-profits.
   - The [IRS publishes selected years of 990 forms](https://www.irs.gov/charities-non-profits/copies-of-eo-returns-available) (required for non-profits in the US).
+  - *Many* foundations in the US are IRS determined **[501(c)(3) public charity](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations)** organizations; donations may be tax deducible; public charities must serve charitable purposes in their actions.
+  - *Some* foundations in the US are IRS determined **[501(c)(6) business league](https://www.irs.gov/charities-non-profits/other-non-profits/business-leagues)** organizations; donations are not tax deductible; business leages typically serve the interests of their sponsors.
 
 ### Brought to you by Punderthings℠ - your Open Source Lifesaver!
 
