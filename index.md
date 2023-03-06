@@ -14,7 +14,7 @@ This site is being built as a resource for those wishing to research funding que
 
 - [TL;DR FOSS](https://tldrfoss.com/) is a comprehensive high-level explanation of most open source concepts.
 
-- [Who Pays For FOSS Foundations](http://shaneslides.com/2021/09/FOSS-Foundation-Funding/) is a brief overview slide deck about how some major foundations are funded.
+- [Who Pays For FOSS Foundations](http://shaneslides.com/2021/09/FOSS-Foundation-Funding/) is a brief overview slide deck about how some major foundations are funded, and includes limited data on how many code contributions are by paid employees/contracors, versus indepednents or volunteers (i.e. unpaid).
 
 - The [Foundations Directory](https://flossfoundations.org/foundation-directory) lists the most popular FOSS Foundations.
 
@@ -33,6 +33,7 @@ This site is being built as a resource for those wishing to research funding que
   - The [IRS publishes selected years of 990 forms](https://www.irs.gov/charities-non-profits/copies-of-eo-returns-available) (required for non-profits in the US).
   - *Many* foundations in the US are IRS determined **[501(c)(3) public charity](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations)** organizations; donations may be tax deducible; public charities must serve charitable purposes in their actions.
   - *Some* foundations in the US are IRS determined **[501(c)(6) business league](https://www.irs.gov/charities-non-profits/other-non-profits/business-leagues)** organizations; donations are not tax deductible; business leages typically serve the interests of their sponsors.
+- Europe and some other countries have other subtle variations on "public charities", as well as a variety of kinds of grants from consortia or governments to study some open source areas.
 
 ### Brought to you by Punderthings℠ - your Open Source Lifesaver!
 
