@@ -2,15 +2,13 @@
 layout: default
 ---
 
-## How Open Source Foundations Are Funded
+## How Does Open Source Get Funding?
 
 Open source is built by individuals from around the world.  While some are volunteers, students, or hobbyists, many are paid developers working for software vendors, consultants, or integrators.  
 
-On the organizational side, many popular projects join FOSS Foundations - typically non-profit organizations that serve as an independent home or fiscal sponsor for the project.  Most Foundations handle legal, IP, fundraising, and infrastructure services for projects; other Foundations do more.
+On the organizational side, many popular projects join FOSS **Foundations** - typically non-profit organizations that serve as an independent home or fiscal sponsor for the project.  Most Foundations handle legal, IP, fundraising, and infrastructure services for projects; other Foundations do more.
 
-This site is being built as a resource for those wishing to research funding questions around FOSS Foundations.
-
-## Where can I go to learn more?
+## How Are Open Source Foundations Funded?
 
 - [TL;DR FOSS](https://tldrfoss.com/) is a comprehensive high-level explanation of most open source concepts.
 
@@ -22,7 +20,15 @@ This site is being built as a resource for those wishing to research funding que
 
 - [FOSS Governance](https://fossgovernance.org/) collects governance and policy documents from many Foundations.
 
-- [Nadia Eghbal's lemonade-stand list of resources](https://github.com/nayafia/lemonade-stand) for how smaller FOSS groups can find funding.
+## How Are Individual Projects Or Maintainers Funded?
+
+Many important open source projects don't have major fiscal sponsor.  How can they seek funding on a smaller scale?
+
+- PayDev's [Awesome OSS Monetization](https://paydevs.github.io/awesome-oss-monetization/) site is a comprehensive and categorized listing of different funding methods and tools.
+
+- [OSS Fund](https://www.oss.fund/) is a listing of existing monetization platforms focused on typical FOSS project activities.
+
+- [Nadia Eghbal's lemonade-stand list of resources](https://github.com/nayafia/lemonade-stand) discusses how smaller FOSS groups can find funding.
 
 - [NPO Public Filings](https://gitlab.com/floss-foundations/npo-public-filings) is a GitLab repo with many tax forms for major FOSS Foundations already organized.
 
