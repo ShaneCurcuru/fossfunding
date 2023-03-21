@@ -6,7 +6,7 @@ layout: default
 
 Open source is built by individuals from around the world.  While some are volunteers, students, or hobbyists, many are paid developers working for software vendors, consultants, or integrators.  
 
-On the organizational side, many popular projects join FOSS **Foundations** - typically non-profit organizations that serve as an independent home or fiscal sponsor for the project.  Most Foundations handle legal, IP, fundraising, and infrastructure services for projects; other Foundations do more.
+On the organizational side, many popular projects join FOSS **Foundations** - typically non-profit organizations that serve as an independent home or fiscal sponsor for the project.  Most Foundations handle legal, IP, fundraising, and infrastructure services for projects; other Foundations do more.  Many other projects are independent, or are hosted by a company or just by an individual with a website.  [Read FOSS Sustainability](https://fosssustainability.com/) for more ideas about keeping open source projects health.
 
 ## How Are Open Source Foundations Funded?
 
@@ -31,6 +31,8 @@ Many important open source projects don't have major fiscal sponsor.  How can th
 - [Nadia Eghbal's lemonade-stand list of resources](https://github.com/nayafia/lemonade-stand) discusses how smaller FOSS groups can find funding.
 
 - [NPO Public Filings](https://gitlab.com/floss-foundations/npo-public-filings) is a GitLab repo with many tax forms for major FOSS Foundations already organized.
+
+- [Join people talking about Sustain OSS](https://sustainoss.org/), where a number of open source leaders lead discussions and programs to help sustain the maintainers.
 
 ## What types of non-profit foundations are there?
 
