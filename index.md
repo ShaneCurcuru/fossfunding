@@ -32,6 +32,8 @@ Many important open source projects don't have major fiscal sponsor.  How can th
 
 - [OSS Fund](https://www.oss.fund/) is a listing of existing monetization platforms focused on typical FOSS project activities.
 
+- [FOSS Funders](https://fossfunders.com/) is a listing of corporations that regularly fund FOSS efforts, either directly or through sponsorships.
+
 - [Nadia Eghbal's lemonade-stand list of resources](https://github.com/nayafia/lemonade-stand) discusses how smaller FOSS groups can find funding.
 
 - [NPO Public Filings](https://gitlab.com/floss-foundations/npo-public-filings) is a GitLab repo with many tax forms for major FOSS Foundations already organized.
