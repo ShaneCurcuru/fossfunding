@@ -8,11 +8,11 @@ layout: default
 <ul>
   {% for corpfund in site.data.corpfunds %}
     <li>
-      <a class="itemname" href="{{ corpfund.url }}">{{ corpfund.CommonName }}</a>  {{ corpfund.description }}<br/>
-      <span class="small">started: {{ corpfund.startDate }}
+      <strong><a class="itemname" href="{{ corpfund.url }}">{{ corpfund.commonName }}</a></strong>  {{ corpfund.description }}<br/>
+      <small>started: {{ corpfund.startDate }}
         {% if corpfund.platforms %} using platforms: {{ corpfund.platforms }}{% endif %}
         {% if corpfund.otherurl %} <a href="{{ corpfund.otherurl }}">See also</a>{% endif %}
-      </span>
+      </small>
     </li>
   {% endfor %}
 </ul>
